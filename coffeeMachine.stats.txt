@@ -1,0 +1,8 @@
+totalCups:25
+servedCups:5:5
+remainingTea:5
+remainingCoffee:5
+remainingMilk:5
+remainingWater:5
+remainingSugar:5
+money:75
